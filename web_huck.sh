@@ -4,9 +4,9 @@ pkg install figlet
 
 figlet -c web hucker
 
-echo "Enter[y/n]" 
+echo "Enter[y/n]" lee
 
-read -p lee
+read -p $lee
 
 echo "$lee"
 
